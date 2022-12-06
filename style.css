@@ -1,0 +1,9 @@
+header {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+}
+
+span {
+    color: pink;
+}
