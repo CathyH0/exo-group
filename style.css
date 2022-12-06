@@ -1,0 +1,11 @@
+header {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+}
+
+span {
+    color: pink;
+    margin: 0 5px;
+    font-weight: bold;
+}
